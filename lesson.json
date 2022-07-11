@@ -1,0 +1,67 @@
+[{
+  "_id": {
+    "$oid": "62a59b90cb4a5a366eac77d1"
+  },
+  "week_day": "Tuesday",
+  "lesson_number": 6,
+  "auditorium": "43",
+  "disciple": "Disciple1",
+  "type": "Lecture",
+  "group": "Group1",
+  "teacher": "Teacher1"
+},{
+  "_id": {
+    "$oid": "62a59c50cb4a5a366eac77d2"
+  },
+  "week_day": "Tuesday",
+  "lesson_number": 65,
+  "auditorium": "229",
+  "disciple": "Disciple2",
+  "type": "Lecture",
+  "group": "Group2",
+  "teacher": "Teacher2"
+},{
+  "_id": {
+    "$oid": "62a59c75cb4a5a366eac77d3"
+  },
+  "week_day": "Friday",
+  "lesson_number": 4,
+  "auditorium": "23",
+  "disciple": "Disciple3",
+  "type": "Laboratory",
+  "group": "Group3",
+  "teacher": "Teacher3"
+},{
+  "_id": {
+    "$oid": "62a5b4346a30d315481a943e"
+  },
+  "week_day": "Thursday",
+  "lesson_number": 2,
+  "auditorium": "65",
+  "disciple": "Disciple3",
+  "type": "Laboratory",
+  "group": "Group3",
+  "teacher": "Teacher3"
+},{
+  "_id": {
+    "$oid": "62a5b49a6a30d315481a943f"
+  },
+  "week_day": "Friday",
+  "lesson_number": 3,
+  "auditorium": "43",
+  "disciple": "Disciple1",
+  "type": "Lecture",
+  "group": "Group1",
+  "teacher": "Teacher1"
+},{
+  "_id": {
+    "$oid": "62a5b4ca6a30d315481a9440"
+  },
+  "week_day": "Thursday",
+  "lesson_number": 1,
+  "auditorium": "65",
+  "disciple": "Disciple2",
+  "type": "Laboratory",
+  "group": "Group2",
+  "teacher": "Teacher2"
+}]
